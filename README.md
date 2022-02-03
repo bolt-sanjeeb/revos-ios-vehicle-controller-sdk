@@ -1,1 +1,1 @@
-# revos-ios-vehicle-controller-sdk
+# ios-revos-lease-sdk
