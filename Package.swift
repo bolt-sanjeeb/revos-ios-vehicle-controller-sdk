@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "revos-ios-vehicle-controller-sdk",
+    name: "VehicleControllerSDK",
     platforms: [
         .iOS(.v12)
     ],
     products: [
         .library(
-            name: "revos-ios-vehicle-controller-sdk",
+            name: "VehicleControllerSDK",
             targets: ["VehicleControllerSDK"]),
     ],
     dependencies: [
